@@ -1,0 +1,38 @@
+@font-face {
+  font-family: 'Voto';
+  src: url('../fonts/VotoSerifGX.ttf');
+  font-weight: 1 999;
+}
+
+@font-face {
+  font-family: 'Avenir Next';
+  src: url('../fonts/AvenirNext_Variable.ttf');
+  font-weight: 1 999;
+}
+
+@font-face {
+  font-family: 'Source Serif';
+  src: url('../fonts/SourceSerifVariable-Roman.ttf');
+  font-weight: 1 999;
+}
+
+.variable {
+  // font-variation-settings: 'wght' 375;
+  font-weight: 1;
+  transition: font-weight 1s ease;
+  &:hover {
+    font-weight: 999;
+  }
+}
+
+.voto {
+  font-family: 'Voto';
+}
+
+.avenir {
+  font-family: 'Avenir Next';
+}
+
+.source-serif {
+  font-family: 'Source Serif';
+}
