@@ -15,6 +15,42 @@
   src: url('../fonts/SourceSerifVariable-Roman.ttf');
   font-weight: 1 999;
 }
+@font-face {
+  font-family: 'Source Code';
+  src: url('../fonts/SourceCodeVariable-Roman.ttf');
+  font-weight: 1 999;
+}
+@font-face {
+  font-family: 'Source Sans';
+  src: url('../fonts/SourceSansVariable-Roman.ttf');
+  font-weight: 1 999;
+}
+@font-face {
+  font-family: 'Lora';
+  src: url('../fonts/Lora-VF.ttf');
+  font-weight: 1 999;
+}
+@font-face {
+  font-family: 'Meta';
+  src: url('../fonts/MetaVariableDemo-Roman.ttf');
+  font-weight: 1 999;
+}
+@font-face {
+  font-family: 'Hepta Slab';
+  src: url('../fonts/HeptaSlab-VF.ttf');
+  font-weight: 1 999;
+}
+@font-face {
+  font-family: 'League Mono';
+  src: url('../fonts/LeagueMonoVariable.ttf');
+  font-weight: 1 999;
+}
+@font-face {
+  font-family: 'Secuela';
+  src: url('../fonts/Secuela-Regular-v_1_787-TTF-VF.ttf');
+  font-weight: 1 999;
+}
+
 
 .variable {
   // font-variation-settings: 'wght' 375;
@@ -35,4 +71,30 @@
 
 .source-serif {
   font-family: 'Source Serif';
+}
+.source-code {
+  font-family: 'Source Code';
+}
+.source-sans {
+  font-family: 'Source Sans';
+}
+
+.lora {
+  font-family: 'Lora';
+}
+
+.meta {
+  font-family: 'Meta';
+}
+
+.hepta-slab {
+  font-family: 'Hepta Slab';
+}
+
+.league-mono {
+  font-family: 'League Mono';
+}
+
+.secuela {
+  font-family: 'Secuela';
 }
