@@ -50,6 +50,41 @@
   src: url('../fonts/Secuela-Regular-v_1_787-TTF-VF.ttf');
   font-weight: 1 999;
 }
+@font-face {
+  font-family: 'Titillium';
+  src: url('../fonts/TitilliumWeb-Roman-VF.ttf');
+  font-weight: 1 999;
+}
+@font-face {
+  font-family: 'Crimson';
+  src: url('../fonts/CrimsonPro-Roman-VF.ttf');
+  font-weight: 1 999;
+}
+@font-face {
+  font-family: 'Changa';
+  src: url('../fonts/Changa-VF.ttf');
+  font-weight: 1 999;
+}
+@font-face {
+  font-family: 'Fira Code';
+  src: url('../fonts/FiraCode-VF.ttf');
+  font-weight: 1 999;
+}
+@font-face {
+  font-family: 'IBM Plex';
+  src: url('../fonts/IBMPlexSansVar-Roman.ttf');
+  font-weight: 1 999;
+}
+@font-face {
+  font-family: 'Public Sans';
+  src: url('../fonts/PublicSans-Roman-VF.ttf');
+  font-weight: 1 999;
+}
+@font-face {
+  font-family: 'Work Sans';
+  src: url('../fonts/WorkSans-Roman-VF.ttf');
+  font-weight: 1 999;
+}
 
 
 .variable {
@@ -97,4 +132,32 @@
 
 .secuela {
   font-family: 'Secuela';
+}
+
+.crimson {
+  font-family: 'Crimson';
+}
+
+.titillium {
+  font-family: 'Titillium';
+}
+
+.changa {
+  font-family: 'Changa';
+}
+
+.firacode {
+  font-family: 'Fira Code';
+}
+
+.plex {
+  font-family: 'IBMPlex';
+}
+
+.public {
+  font-family: 'Public Sans';
+}
+
+.work {
+  font-family: 'Work Sans';
 }
